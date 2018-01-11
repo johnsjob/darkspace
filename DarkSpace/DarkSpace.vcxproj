@@ -316,6 +316,7 @@
     <ClInclude Include="GadgetSlot.h" />
     <ClInclude Include="GadgetSpawn.h" />
     <ClInclude Include="GadgetSpreadWeapon.h" />
+    <ClInclude Include="GadgetTachyonDisruptor.h" />
     <ClInclude Include="GadgetTECCM.h" />
     <ClInclude Include="GadgetTECM.h" />
     <ClInclude Include="GadgetTractorBeam.h" />
@@ -516,6 +517,7 @@
     <ClCompile Include="GadgetSlot.cpp" />
     <ClCompile Include="GadgetSpawn.cpp" />
     <ClCompile Include="GadgetSpreadWeapon.cpp" />
+    <ClCompile Include="GadgetTachyonDisruptor.cpp" />
     <ClCompile Include="GadgetTECCM.cpp" />
     <ClCompile Include="GadgetTECM.cpp" />
     <ClCompile Include="GadgetTractorBeam.cpp" />

@@ -62,6 +62,7 @@ public:
 		BEACON,					// beacon
 		DRONE_REPAIR,			// repair drones
 		DRONE_BUILD,			// build drones
+		TACHYON_DISRUPTOR,
 		MINING_BEAM,			// mining beam
 		TRACTOR_BEAM,
 		REACTOR,
